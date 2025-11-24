@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0283-move-zeroes) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -33,12 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0412-fizz-buzz) |
+| [1512-number-of-good-pairs](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
