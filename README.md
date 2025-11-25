@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0283-move-zeroes) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1672-richest-customer-wealth) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
