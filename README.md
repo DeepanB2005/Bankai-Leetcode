@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1512-number-of-good-pairs) |
 ## String
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -113,4 +115,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
