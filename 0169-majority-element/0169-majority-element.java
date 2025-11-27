@@ -1,22 +1,23 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        int max=0;
-        int e=nums[0];
-        for(int i:nums)
+        int m=nums[0];
+        int v=0;
+        for(int i=0;i<nums.length;i++)
         {
-            if(max==0)
+            if(nums[i]==m)
             {
-                e=i;
+                v++;
             }
-            if(e==i)
+            else{
+                v--;
+            }
+            if(v==0)
             {
-                max++;
+                m=nums[i];
+                v=1;
+            }
 
-            }
-            else
-            {max--;}
         }
-        return e;
+        return m;
     }
-    
 }
