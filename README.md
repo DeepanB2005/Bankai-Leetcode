@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0136-single-number) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0412-fizz-buzz) |
