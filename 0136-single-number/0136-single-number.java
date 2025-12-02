@@ -1,23 +1,19 @@
 class Solution {
     public int singleNumber(int[] nums) {
+        int a=0;
+        Map<Integer,Integer>map=new HashMap<>();
         for(int i=0;i<nums.length;i++)
         {
-            boolean u=true;
-            for(int j=0;j<nums.length;j++)
-            {
-                if(i!=j && nums[i]==nums[j])
-                {
-                    u=false;
-                    break;
-                }
-                
-            }
-            if(u)
-            {
-                return nums[i];
-            }
-
+            map.put(nums[i],map.getOrDefault(nums[i],0)+1);
         }
-        return -1;
+        int ab=0;
+        for(Map.Entry<Integer,Integer>entry:map.entrySet())
+        {
+            if(entry.getValue()==1)
+            {
+                ab= entry.getKey();
+            }
+        }
+        return ab;
     }
 }
