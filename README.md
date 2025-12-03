@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0283-move-zeroes) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -159,5 +161,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
