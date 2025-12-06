@@ -12,7 +12,7 @@ class Solution {
             {
                 if(sk.isEmpty())
                 {
-                    sk.push(a);
+                    return false;
                 }
                 else
                 {
