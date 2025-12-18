@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0075-sort-colors) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
