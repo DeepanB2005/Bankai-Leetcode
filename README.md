@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1137-n-th-tribonacci-number) |
