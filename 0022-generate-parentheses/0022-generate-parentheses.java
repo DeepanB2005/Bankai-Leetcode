@@ -1,23 +1,23 @@
 class Solution {
-    ArrayList<String>list=new ArrayList<>();
-
+    List<String>li=new ArrayList<>();
     public List<String> generateParenthesis(int n) {
         bc("",0,0,n);
-        return list;
+        return li;
     }
-    private void bc(String st,int op,int cl,int n)
+    public void bc(String s,int o,int c,int n)
     {
-        if(st.length()==n*2)
+
+        if(s.length()==n*2)
         {
-            list.add(st);
+            li.add(s);
         }
-        if(op<n)
+        if(o<n)
         {
-            bc(st+'(',op+1,cl,n);
+            bc(s+"(",o+1,c,n);
         }
-        if(cl<op)
+        if(c<o)
         {
-            bc(st+')',op,cl+1,n);
+            bc(s+")",o,c+1,n);
         }
-    }    
+    }
 }
