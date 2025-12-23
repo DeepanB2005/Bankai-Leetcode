@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0412-fizz-buzz) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1929-concatenation-of-array) |
 ## Counting Sort
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
