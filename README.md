@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0268-missing-number) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0263-ugly-number) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
