@@ -1,6 +1,5 @@
 class Solution {
     public int romanToInt(String s) {
-        int op=0;
         HashMap<Character,Integer>map=new HashMap<>();
         map.put('I',1);
         map.put('V',5);
@@ -9,17 +8,18 @@ class Solution {
         map.put('C',100);
         map.put('D',500);
         map.put('M',1000);
-        for(int i=0;i<s.length()-1;i++)
+        int r=0;
+        for(int i=0;i<s.length();i++)
         {
-            if(map.get(s.charAt(i))<map.get(s.charAt(i+1)))
+            if(i+1<s.length() && map.get(s.charAt(i))< map.get(s.charAt(i+1)))
             {
-                op-=map.get(s.charAt(i));
+                r-=map.get(s.charAt(i));
             }
             else
             {
-                op+=map.get(s.charAt(i));
+                r+=map.get(s.charAt(i));
             }
         }
-        return op+map.get(s.charAt(s.length()-1));
+        return r;
     }
 }
