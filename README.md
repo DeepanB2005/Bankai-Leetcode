@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0053-maximum-subarray) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0268-missing-number) |
