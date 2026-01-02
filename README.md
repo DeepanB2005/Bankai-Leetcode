@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0014-longest-common-prefix) |
+| [0048-rotate-image](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0054-spiral-matrix) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0054-spiral-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1672-richest-customer-wealth) |
