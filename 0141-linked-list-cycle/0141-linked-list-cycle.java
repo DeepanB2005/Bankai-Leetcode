@@ -17,7 +17,10 @@ public class Solution {
         {
             s=s.next;
             f=f.next.next;
-            if(s==f)return true;
+            if(f==s)
+            {
+                return true;
+            }
         }
         return false;
     }
