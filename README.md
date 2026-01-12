@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0205-isomorphic-strings) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0202-happy-number) |
@@ -281,5 +283,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
