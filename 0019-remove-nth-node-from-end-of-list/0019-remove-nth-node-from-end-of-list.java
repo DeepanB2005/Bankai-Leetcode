@@ -17,17 +17,16 @@ class Solution {
             c++;
             t=t.next;
         }
-        if(c==n)
-        {
-            return head.next;
-        }
-        int l=c-n;
+        int p=c-n;
+        if(c==n)return head.next;
         t=head;
-        for(int i=1;i<l;i++)
+        for(int i=1;i<p;i++)
         {
             t=t.next;
         }
+        
         t.next=t.next.next;
+        
         return head;
     }
 }
