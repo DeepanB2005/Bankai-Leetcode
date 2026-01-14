@@ -10,25 +10,19 @@
  */
 class Solution {
     public ListNode oddEvenList(ListNode head) {
-        if(head==null)return head;
-        ListNode n=new ListNode();
-        ListNode f=head.next;
-        ListNode s=head;
-        ListNode t1=n;
-        while(s!=null)
+        if(head==null || head.next==null)return head;
+        ListNode o = head;
+        ListNode e = head.next;
+        ListNode j=e;
+        while(e!=null && e.next!=null)
         {
-            t1.next=new ListNode(s.val);
-            t1=t1.next;
-            if(s.next==null)break;
-            s=s.next.next;
+            o.next=e.next;
+            o=o.next;
+
+            e.next=o.next;
+            e=e.next;
         }
-        while(f!=null)
-        {
-            t1.next=new ListNode(f.val);
-            t1=t1.next;
-            if(f.next==null)break;
-            f=f.next.next;
-        }
-        return n.next;
+        o.next=j;
+        return head;
     }
 }
