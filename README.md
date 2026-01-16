@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0155-min-stack](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
@@ -293,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0328-odd-even-linked-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
