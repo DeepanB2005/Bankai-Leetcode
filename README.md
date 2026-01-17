@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Recursion
 |  |
@@ -298,4 +300,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
