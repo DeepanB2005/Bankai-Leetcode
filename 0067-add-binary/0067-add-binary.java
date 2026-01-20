@@ -1,8 +1,8 @@
 class Solution {
     public String addBinary(String a, String b) {
+        int c=0;
         int i=a.length()-1;
         int j=b.length()-1;
-        int c=0;
         StringBuilder sb=new StringBuilder();
         while(i>=0||j>=0||c==1)
         {
