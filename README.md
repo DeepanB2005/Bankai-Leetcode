@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0061-rotate-list) |
@@ -323,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0739-daily-temperatures) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
