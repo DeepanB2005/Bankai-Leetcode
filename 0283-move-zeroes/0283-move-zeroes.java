@@ -4,20 +4,15 @@ class Solution {
         int c=0;
         for(int i=0;i<nums.length;i++)
         {
-            if(nums[i]!=0)
-            {
-                nums[l]=nums[i];
-                l++;
-            }
+            if(nums[i]==0)c++;
             else
             {
-                c++;
+                nums[l++]=nums[i];
             }
         }
-        for(int i=nums.length-c;i<nums.length;i++)
+        for(int i=0;i<c;i++)
         {
-            nums[i]=0;
+            nums[nums.length-1-i]=0;
         }
-        
     }
 }
