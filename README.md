@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0169-majority-element) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
