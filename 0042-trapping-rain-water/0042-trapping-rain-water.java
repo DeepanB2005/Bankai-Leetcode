@@ -2,24 +2,24 @@ class Solution {
     public int trap(int[] height) {
         int l=0;
         int r=height.length-1;
-        int lm=height[0];
-        int rm=height[height.length-1];
-        int w=0;
+        int lm=height[l];
+        int rm=height[r];
+        int m=0;
         while(l<r)
         {
-            if(lm>rm)
+            if(lm<rm)
             {
-                r--;
-                rm=rm>height[r]?rm:height[r];
-                w+=rm-height[r];
+                l++;
+                lm=lm<height[l]?height[l]:lm;
+                m+=lm-height[l];
             }
             else
             {
-                l++;
-                lm=lm>height[l]?lm:height[l];
-                w+=lm-height[l];
+                r--;
+                rm=rm<height[r]?height[r]:rm;
+                m+=rm-height[r];
             }
         }
-        return w;
+        return m;
     }
 }
