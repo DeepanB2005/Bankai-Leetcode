@@ -5,19 +5,19 @@ class Solution {
         int lm=height[l];
         int rm=height[r];
         int m=0;
-        while(l<r)
+        while(l<=r)
         {
             if(lm<rm)
             {
-                l++;
-                lm=lm<height[l]?height[l]:lm;
+                lm=lm>height[l]?lm:height[l];
                 m+=lm-height[l];
+                l++;
             }
             else
             {
-                r--;
                 rm=rm<height[r]?height[r]:rm;
                 m+=rm-height[r];
+                r--;
             }
         }
         return m;
