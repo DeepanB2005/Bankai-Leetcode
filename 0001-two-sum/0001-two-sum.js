@@ -4,15 +4,15 @@
  * @return {number[]}
  */
 var twoSum = function(nums, target) {
+    let obj={};
     for(let i=0;i<nums.length;i++)
     {
-        for(let j=i+1;j<nums.length;j++)
+        let a=target-nums[i];
+        if(a in obj)
         {
-            if(nums[i]+nums[j]==target)
-            {
-                return [i,j];
-            }
+            return [obj[a],i];
         }
+        obj[nums[i]]=i;
     }
 
 };
