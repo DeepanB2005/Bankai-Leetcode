@@ -1,18 +1,26 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
-        int p[]=new int[nums.length];
-        p[0]=nums[0];
+        int c=0;
+        int pr[]=new int[nums.length];
+        pr[0]=nums[0];
         for(int i=1;i<nums.length;i++)
         {
-            p[i]=p[i-1]+nums[i];
+            pr[i]=pr[i-1]+nums[i];
         }
-        int c=0;
+        for(int i:pr)
+        {
+            System.out.print(i);
+        }
         for(int i=0;i<nums.length;i++)
         {
-            if(p[i]==k)c++;
-            for(int j=i+1;j<nums.length;j++)
+            int t=pr[i]-k;
+            if(pr[i]==k)c++;
+            for(int j=0;j<i;j++)
             {
-                if(p[j]-p[i]==k)c++;
+                if(t==pr[j])
+                {
+                    c++;
+                }
             }
         }
         return c;
