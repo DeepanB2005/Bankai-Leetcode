@@ -380,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0101-symmetric-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
