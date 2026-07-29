@@ -1,6 +1,6 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        int l=Integer.MAX_VALUE;
+        int l=prices[0];
         int m=0;
         for(int i=0;i<prices.length;i++)
         {
@@ -10,8 +10,7 @@ class Solution {
             }
             else
             {
-                m=m>prices[i]-l?m:prices[i]-l;
-                System.out.print(m);
+                m=m<prices[i]-l?prices[i]-l:m;
             }
         }
         return m;
