@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1773-count-items-matching-a-rule](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1929-concatenation-of-array](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1929-concatenation-of-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1512-number-of-good-pairs) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
