@@ -8,7 +8,7 @@ class Solution {
             {
                 t+=accounts[i][j];
             }
-            m=t>m?t:m;
+            m=m<t?t:m;
         }
         return m;
     }
