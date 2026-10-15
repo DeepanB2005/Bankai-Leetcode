@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1929-concatenation-of-array](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1929-concatenation-of-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/3731-find-missing-elements) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1512-number-of-good-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -406,4 +408,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0620-not-boring-movies) |
 | [1193-monthly-transactions-i](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1193-monthly-transactions-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
