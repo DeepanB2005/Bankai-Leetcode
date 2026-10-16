@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1773-count-items-matching-a-rule) |
+| [1920-build-array-from-permutation](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1929-concatenation-of-array) |
 ## Counting Sort
 |  |
