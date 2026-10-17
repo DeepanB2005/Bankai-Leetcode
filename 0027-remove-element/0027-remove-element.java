@@ -6,10 +6,11 @@ class Solution {
         {
             if(nums[i]!=val)
             {
-                nums[l++]=nums[i];
-                c++;
+                nums[l]=nums[i];
+                l++;
             }
+            
         }
-        return c;
+        return l;
     }
 }
