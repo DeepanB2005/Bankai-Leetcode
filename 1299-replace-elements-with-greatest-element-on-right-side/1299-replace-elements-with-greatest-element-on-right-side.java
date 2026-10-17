@@ -1,16 +1,12 @@
 class Solution {
-    public int[] replaceElements(int[] nums) {
-        int r[]=new int[nums.length];
-        for(int i=0;i<nums.length;i++)
+    public int[] replaceElements(int[] arr) {
+        int m=-1;
+        for(int i=arr.length-1;i>=0;i--)
         {
-            int m=0;
-            for(int j=i+1;j<nums.length;j++)
-            {
-                m=m>nums[j]?m:nums[j];
-            }
-            r[i]=m;
+            int t=arr[i];
+            arr[i]=m;
+            m=m>t?m:t;
         }
-        r[r.length-1]=-1;
-        return r;
+        return arr;
     }
 }
