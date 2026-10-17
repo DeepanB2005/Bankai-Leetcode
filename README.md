@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
