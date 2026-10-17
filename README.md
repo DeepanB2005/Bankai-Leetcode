@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1929-concatenation-of-array) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
