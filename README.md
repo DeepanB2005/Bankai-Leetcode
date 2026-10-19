@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0496-next-greater-element-i) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0383-ransom-note) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -424,4 +429,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
