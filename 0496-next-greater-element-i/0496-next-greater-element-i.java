@@ -1,22 +1,26 @@
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
+        HashMap<Integer,Integer>map=new HashMap<>();
+        int st[]=new int[nums2.length];
         int r[]=new int[nums1.length];
+        int t=-1;
+
         for(int i=0;i<nums1.length;i++)
         {
-            for(int j=0;j<nums2.length;j++)
+            map.put(nums1[i],i);
+        }
+
+        for(int i=0;i<nums2.length;i++)
+        {
+            while(t!=-1 && nums2[i]>st[t])
             {
-                if(nums1[i]==nums2[j])
+                int v=st[t--];
+                if(map.containsKey(v))
                 {
-                    for(int k=j+1;k<nums2.length;k++)
-                    {
-                        if(nums2[k]>nums1[i])
-                        {
-                            r[i]=nums2[k];
-                            break;
-                        }
-                    }
+                    r[map.get(v)]=nums2[i];
                 }
             }
+            st[++t]=nums2[i];
         }
         for(int i=0;i<r.length;i++)
         {
