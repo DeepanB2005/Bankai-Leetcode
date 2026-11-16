@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1773-count-items-matching-a-rule](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1773-count-items-matching-a-rule) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Counting Sort
 |  |
 | ------- |
