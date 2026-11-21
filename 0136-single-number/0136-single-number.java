@@ -1,10 +1,10 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int c=0;
+        int m=0;
         for(int i:nums)
         {
-            c^=i;
+            m^=i;
         }
-        return c;
+        return m;
     }
 }
