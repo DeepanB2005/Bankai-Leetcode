@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1512-number-of-good-pairs) |
+| [3360-stone-removal-game](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/DeepanB2005/Bankai-Leetcode/tree/master/3360-stone-removal-game) |
 ## Counting Sort
 |  |
 | ------- |
